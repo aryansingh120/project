@@ -1,0 +1,17 @@
+[
+  {
+    "id": "seo1",
+    "title": "Home Page",
+    "metaTitle": "Welcome to My Site",
+    "metaDescription": "Home page description",
+    "keywords": ["home", "welcome"],
+    "canonicalUrl": "https://example.com/",
+    "slug": "home",
+    "openGraph": {
+      "title": "Home OG",
+      "description": "Open graph description",
+      "image": "https://example.com/og-image.jpg"
+    },
+    "seoScore": 85
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "role": "admin",
+    "permissions": ["manage-users", "manage-seo", "manage-blog", "view"]
+  },
+  {
+    "role": "blog-post",
+    "permissions": ["create-blog", "view"]
+  },
+  {
+    "role": "edit-blog",
+    "permissions": ["edit-blog", "view"]
+  },
+  {
+    "role": "seo-editor",
+    "permissions": ["edit-seo", "view"]
+  },
+  {
+    "role": "viewer",
+    "permissions": ["view"]
+  }
+]
