@@ -1,0 +1,9 @@
+// jsconfig.json - enables absolute imports using '@/...'
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./*"]
+    }
+  }
+}
